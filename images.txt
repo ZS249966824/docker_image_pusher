@@ -5,4 +5,4 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # python:3.8.19
-louislam/dockge:1.4.2
+louislam/dockge:latest
