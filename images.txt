@@ -6,4 +6,5 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # python:3.8.19-slim
 # louislam/dockge:latest
-tiangolo/uvicorn-gunicorn-fastapi:python3.8
+# tiangolo/uvicorn-gunicorn-fastapi:python3.8
+zhenorzz/goploy:1.17.2
