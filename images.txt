@@ -19,4 +19,5 @@
 # pgvector/pgvector:pg16
 # nginx:latest
 # grafana/loki:2.9.2
-grafana/grafana:latest
+# grafana/grafana:latest
+python:3.8.19-alpine
